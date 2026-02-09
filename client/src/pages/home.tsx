@@ -24,7 +24,7 @@ import { Badge } from "@/components/ui/badge";
 import { Separator } from "@/components/ui/separator";
 import hacknuthonCert from "@assets/hacknuthoncerti_1766076845531.jpeg";
 import intellihackCert from "@assets/intellihackcerti_1766078015035.jpeg";
-import intellihackVideo from "@assets/videoCobraOS_(1)_(1)_1770644910052.mp4";
+import intellihackVideo from "@assets/videoCobraOS.mp4";
 import profileImage from "@assets/IMG_6680_1766081047371.jpg";
 
 export default function Home() {
