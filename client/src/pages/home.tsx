@@ -99,8 +99,8 @@ export default function Home() {
                   Hi, I'm Krina Shah.
                 </p>
                 <p className="text-lg text-muted-foreground max-w-2xl leading-relaxed mb-4">
-                  2nd Year B.Tech CSE Student at <span className="font-semibold text-foreground">Nirma University</span>. 
-                  AI enthusiast passionate about solving real-world problems through intelligent systems.
+                  2nd Year B.Tech CSE Student at <span className="font-semibold text-foreground">Nirma University</span>.<br></br>
+                  Focused on backend and full-stack development, building real-world applications with Django, REST APIs, and databases, while exploring AI and machine learning fundamentals.
                 </p>
 
                 <motion.div variants={item} className="flex flex-col sm:flex-row flex-wrap gap-3 pt-3 mb-4">
