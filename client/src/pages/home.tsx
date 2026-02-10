@@ -122,12 +122,9 @@ export default function Home() {
                 <motion.div variants={item} className="flex flex-wrap gap-4 pt-3 border-t border-border/40 text-sm">
                   <a href="mailto:krinabr2007@gmail.com" className="flex items-center gap-2 text-muted-foreground hover:text-primary transition-colors">
                     <Mail className="w-4 h-4" />
-                    krinabr2007@gmail.com
+                    24bce292@nirmauni.ac.in
                   </a>
-                  <a href="tel:+919726470882" className="flex items-center gap-2 text-muted-foreground hover:text-primary transition-colors">
-                    <Phone className="w-4 h-4" />
-                    +91 9726470882
-                  </a>
+                
                 </motion.div>
 
                 <motion.div variants={item} className="flex items-center gap-2 text-muted-foreground mt-3">
