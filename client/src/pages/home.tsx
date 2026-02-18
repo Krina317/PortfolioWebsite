@@ -133,13 +133,13 @@ export default function Home() {
                 </motion.div>
               </motion.div>
               
-              <motion.div variants={item} className="w-48 sm:w-56 md:w-64 flex-shrink-0">
+              {/* <motion.div variants={item} className="w-48 sm:w-56 md:w-64 flex-shrink-0">
                 <img 
                   src={profileImage}
                   alt="Krina Shah"
                   className="rounded-2xl w-full h-auto object-cover shadow-lg border border-border"
                 />
-              </motion.div>
+              </motion.div> */}
             </div>
           </div>
         </motion.section>
