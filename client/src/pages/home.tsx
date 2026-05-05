@@ -433,7 +433,7 @@ export default function Home() {
                 
                 <div className="border-t border-border/40 pt-4 flex gap-2">
                   <Button size="sm" variant="ghost" className="flex-1 text-xs h-8" asChild>
-                    <a href="#" className="flex items-center justify-center gap-1">
+                    <a href="https://github.com/Krina317/orderManagement-project.git" className="flex items-center justify-center gap-1">
                       <Github className="w-3 h-3" />
                       Code
                     </a>
@@ -442,37 +442,7 @@ export default function Home() {
               </CardContent>
             </Card>
 
-            {/* Project 2 - Shopping Site with AI
-            <Card className="group hover:border-primary/50 transition-all duration-300 hover:shadow-lg overflow-hidden">
-              <CardContent className="p-8">
-                <div className="flex justify-between items-start mb-6">
-                  <div className="p-3 bg-purple-100 dark:bg-purple-900/20 text-purple-600 dark:text-purple-400 rounded-full">
-                    <Code2 className="w-6 h-6" />
-                  </div>
-                  <Badge variant="default" className="bg-amber-500 hover:bg-amber-600 border-none text-white">Coming Soon</Badge>
-                </div>
-                <h3 className="text-2xl font-bold mb-2 group-hover:text-primary transition-colors">Shopping Site with AI</h3>
-                <p className="text-muted-foreground mb-4 text-sm">
-                  Intelligent e-commerce platform with AI-powered recommendations and personalized shopping experience.
-                </p>
-                <div className="flex flex-wrap gap-2 mb-6">
-                  <Badge variant="outline" className="text-xs">React</Badge>
-                  <Badge variant="outline" className="text-xs">Django</Badge>
-                  <Badge variant="outline" className="text-xs">MySQL</Badge>
-                  <Badge variant="outline" className="text-xs">Python (AI)</Badge>
-                </div>
-                <p className="text-xs text-muted-foreground font-medium mb-6">AI-Enhanced E-Commerce</p>
-                
-                <div className="border-t border-border/40 pt-4 flex gap-2">
-                  <Button size="sm" variant="ghost" className="flex-1 text-xs h-8" asChild>
-                    <a href="#" className="flex items-center justify-center gap-1">
-                      <Github className="w-3 h-3" />
-                      Code
-                    </a>
-                  </Button>
-                </div>
-              </CardContent>
-            </Card> */}
+            
           </div>
         </motion.section>
 
@@ -493,7 +463,7 @@ export default function Home() {
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Button size="lg" className="bg-primary hover:bg-primary/90 text-white h-14 px-8 text-lg rounded-full" asChild>
-                <a href="mailto:krinabr2007@gmail.com">
+                <a href="mailto:24bce292@nirmauni.ac.in">
                   <Mail className="mr-2 w-5 h-5" /> Email Me
                 </a>
               </Button>
