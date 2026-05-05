@@ -442,7 +442,7 @@ export default function Home() {
               </CardContent>
             </Card>
 
-            {/* Project 2 - Shopping Site with AI */}
+            {/* Project 2 - Shopping Site with AI
             <Card className="group hover:border-primary/50 transition-all duration-300 hover:shadow-lg overflow-hidden">
               <CardContent className="p-8">
                 <div className="flex justify-between items-start mb-6">
@@ -472,7 +472,7 @@ export default function Home() {
                   </Button>
                 </div>
               </CardContent>
-            </Card>
+            </Card> */}
           </div>
         </motion.section>
 
